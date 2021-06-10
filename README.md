@@ -2,7 +2,7 @@
 
 This repository contains source code to reproduce results presented in the ICLR2020 paper [Adversarial Lipschitz Regularization](https://openreview.net/forum?id=Bke_DertPB)
 
-**Dávid Terjék** (Robert Bosch Kft.) **[david.terjek@hu.bosch.com](mailto:david.terjek@hu.bosch.com)**
+**Dávid Terjék** (Alfréd Rényi Institute of Mathematics, this work was done while still working at Robert Bosch Kft.) **[dterjek@renyi.hu](mailto:dterjek@renyi.hu)**
 
 * WGAN experiments were done using TensorFlow 1.8 and were based on [Banach WGAN](https://github.com/adler-j/bwgan)
 * The semi-supervised and toy examples were done using PyTorch 1.3
